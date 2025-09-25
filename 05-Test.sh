@@ -1,3 +1,4 @@
 #!/bin/bash
 
-Echo "My commi"
+$Name= siva
+echo "print my name is : $Name"
